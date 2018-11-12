@@ -1,2 +1,6 @@
 # IGNORE DOWNLOADED NODE MODULES
 node_modules
+
+# IGNORE BUNDLED FILES
+client/public/vb_web_bundle.js
+client/public/vb_web_bundle.js.gz
